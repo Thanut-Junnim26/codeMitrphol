@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Methane": "87%", "Ethane": "7%", "Propane": "1%", "Others": "5%", "location": "PTT Exploration and Production Public Company Limited - SINPHUHORM PROJECT", "date": "2021-01-27", "areasize_km2": "0.59" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 102.767465, 16.676654 ], [ 102.767497, 16.678617 ], [ 102.774374, 16.67985 ], [ 102.774739, 16.675945 ], [ 102.767465, 16.676654 ] ] ] } }
+]
+}
